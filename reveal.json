@@ -1,0 +1,12 @@
+{
+  "slideNumber": true,
+  "history": true,
+  "autoPlayMedia": false,
+  "defaultTiming": 120,
+  "transition": "slide",
+  "backgroundTransition": "default",
+  "chalkboard": {
+    "colorButtons": false,
+    "boardHandle": false
+  }
+}

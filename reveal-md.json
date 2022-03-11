@@ -1,0 +1,10 @@
+{
+  "verticalSeparator": "^\n--\n",
+  "scripts": [
+    "plugin/chalkboard/chalkboard.js",
+    "plugin/menu/menu.js",
+    "plugin.js"
+  ],
+  "template": "template.html",
+  "static-dirs": "img"
+}
