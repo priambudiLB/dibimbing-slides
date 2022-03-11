@@ -1,11 +1,11 @@
 {
-  "name": "TDD-jest-slides-main",
-  "version": "1.0.0",
+  "name": "slide-dibimbing",
+  "version": "1.0.1",
   "description": "Slides for TDD-jest boot camp course",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "reveal-md --static",
+    "build": "rimraf _static && reveal-md --static",
     "dev": "reveal-md .",
     "start": "reveal-md ."
   },
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^5.3.2"
+    "reveal-md": "^5.3.2",
+    "rimraf": "^3.0.2"
   }
 }

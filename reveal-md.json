@@ -1,9 +1,7 @@
 {
   "verticalSeparator": "^\n--\n",
   "scripts": [
-    "plugin/chalkboard/chalkboard.js",
     "plugin/chalkboard",
-    "plugin/menu/menu.js",
     "plugin/menu",
     "plugin.js"
   ],
