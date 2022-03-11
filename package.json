@@ -5,6 +5,8 @@
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "reveal-md --static",
+    "dev": "reveal-md .",
     "start": "reveal-md ."
   },
   "keywords": [],

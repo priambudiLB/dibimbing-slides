@@ -3,7 +3,7 @@ theme: "night"
 transition: "slide"
 highlightTheme: "monokai"
 slideNumber: true
-title: "Testing: TDD & Unit Tests with Jest 1"
+title: "Slide Links"
 ---
 
 <style>
@@ -43,13 +43,22 @@ p {
 }
 </style>
 
+### Slide Links
+#### [Day 38 - Testing: TDD & Unit Tests with Jest 1](test-1.html)
+#### Day 39 - Testing: TDD & Unit Tests with Jest 2 (🔒)
+#### Day 40 - Testing: TDD & Unit Tests with Jest 3 (🔒)
+#### Day 41 - Deploy (🔒)
+#### Day 42 - Security (🔒)
+
+--
+
 ### Priambudi Lintang Bagaskara
 
 Software Engineer-Web Platform | Tokopedia
 
 Aug 2021 - now
 
-<img width="500" src="img/photo.jpeg">
+<img width="500" src="/img/photo.png">
 
 --
 
