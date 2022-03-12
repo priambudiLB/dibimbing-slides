@@ -58,7 +58,7 @@ Software Engineer-Web Platform | Tokopedia
 
 Aug 2021 - now
 
-<img width="500" src="/img/photo.png">
+![](img/photo.png)
 
 --
 
