@@ -54,9 +54,9 @@ p {
 
 ### Priambudi Lintang Bagaskara
 
-Software Engineer-Web Platform | Tokopedia
+Graduate Student (Master's) | National University of Singapore
 
-Aug 2021 - now
+Jan 2023 - now
 
 ![](img/photo.png)
 
@@ -69,12 +69,16 @@ Aug 2021 - now
 --
 
 ### Pengalaman Kerja
+
+#### Software Engineer-Web Platform | Tokopedia
+Aug 2021 - Dec 2022
+
+|
+
 #### Fullstack Web Facilitator | Binar Academy
-June 2021 - Jan 2022
+Jun 2021 - Jan 2022
 
 |
 
 #### Fullstack Web Developer | Moselo
 Nov 2019 - Aug 2021
-
-React, NodeJS, Angular, Go, Laravel
